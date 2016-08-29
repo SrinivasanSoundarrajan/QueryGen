@@ -1,0 +1,8 @@
+D:\Srini\Utilities\QueryGen\QueryGen\QueryGen\bin\Debug\QueryGen.exe.config
+D:\Srini\Utilities\QueryGen\QueryGen\QueryGen\bin\Debug\QueryGen.exe
+D:\Srini\Utilities\QueryGen\QueryGen\QueryGen\bin\Debug\QueryGen.pdb
+D:\Srini\Utilities\QueryGen\QueryGen\QueryGen\obj\Debug\QueryGen.Form1.resources
+D:\Srini\Utilities\QueryGen\QueryGen\QueryGen\obj\Debug\QueryGen.Properties.Resources.resources
+D:\Srini\Utilities\QueryGen\QueryGen\QueryGen\obj\Debug\QueryGen.csproj.GenerateResource.Cache
+D:\Srini\Utilities\QueryGen\QueryGen\QueryGen\obj\Debug\QueryGen.exe
+D:\Srini\Utilities\QueryGen\QueryGen\QueryGen\obj\Debug\QueryGen.pdb

@@ -1,0 +1,9 @@
+D:\SRINI\Utilities\QueryGen\QueryGen\QueryGen\bin\Release\QueryGen.exe.config
+D:\SRINI\Utilities\QueryGen\QueryGen\QueryGen\bin\Release\QueryGen.exe
+D:\SRINI\Utilities\QueryGen\QueryGen\QueryGen\bin\Release\QueryGen.pdb
+D:\SRINI\Utilities\QueryGen\QueryGen\QueryGen\obj\Release\QueryGen.csprojResolveAssemblyReference.cache
+D:\SRINI\Utilities\QueryGen\QueryGen\QueryGen\obj\Release\QueryGen.Form1.resources
+D:\SRINI\Utilities\QueryGen\QueryGen\QueryGen\obj\Release\QueryGen.Properties.Resources.resources
+D:\SRINI\Utilities\QueryGen\QueryGen\QueryGen\obj\Release\QueryGen.csproj.GenerateResource.Cache
+D:\SRINI\Utilities\QueryGen\QueryGen\QueryGen\obj\Release\QueryGen.exe
+D:\SRINI\Utilities\QueryGen\QueryGen\QueryGen\obj\Release\QueryGen.pdb
